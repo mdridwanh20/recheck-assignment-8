@@ -1,0 +1,286 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Laptop",
+    "price": 999,
+    "description": "13-inch laptop with an InfinityEdge display and Intel Core i7.",
+    "specification": [
+      "13.3-inch Full HD display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 2,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Laptop",
+    "price": 1299,
+    "description": "Convertible laptop with a 360-degree hinge and OLED display.",
+    "specification": [
+      "13.5-inch OLED touchscreen",
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Laptop",
+    "price": 1399,
+    "description": "Business laptop with a lightweight design and powerful performance.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 4,
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Phones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Powerful smartphone with the latest Snapdragon chip and amazing camera.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "108MP main camera",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 6,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "Google's flagship phone with the latest AI-powered camera.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Tensor G3 chip",
+      "50MP camera",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 7,
+    "product_title": "Apple AirPods Pro (2nd Gen)",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Active Noise Cancellation with adaptive transparency.",
+    "specification": [
+      "ANC (Active Noise Cancellation)",
+      "Spatial Audio",
+      "MagSafe Charging Case"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy Buds 2 Pro",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Accessories",
+    "price": 229,
+    "description": "True wireless earbuds with ANC and 360 Audio.",
+    "specification": [
+      "ANC (Active Noise Cancellation)",
+      "360 Audio",
+      "Wireless Charging"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 9,
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "Accessories",
+    "price": 99,
+    "description": "Wireless mouse with ergonomic design and customizable buttons.",
+    "specification": [
+      "Ergonomic design",
+      "Customizable buttons",
+      "USB-C charging"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 10,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "",
+    "price": 399,
+    "description": "Latest Apple Watch with enhanced fitness tracking and health sensors.",
+    "specification": [
+      "Always-on Retina display",
+      "ECG, Blood Oxygen sensor",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 11,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "",
+    "price": 349,
+    "description": "Stylish smartwatch with comprehensive fitness and health tracking.",
+    "specification": [
+      "Super AMOLED display",
+      "BioActive sensor",
+      "Sleep tracking"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 12,
+    "product_title": "Garmin Forerunner 955",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "",
+    "price": 499,
+    "description": "Advanced GPS smartwatch designed for athletes.",
+    "specification": [
+      "Built-in GPS",
+      "VO2 max tracking",
+      "1.3-inch transflective display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 13,
+    "product_title": "MacBook Pro 14-inch (M2 Pro)",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "MacBook",
+    "price": 1999,
+    "description": "High-performance MacBook Pro with M2 Pro chip.",
+    "specification": [
+      "14.2-inch Liquid Retina XDR display",
+      "M2 Pro chip",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 14,
+    "product_title": "MacBook Air 13-inch (M2)",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "MacBook",
+    "price": 1199,
+    "description": "Lightweight MacBook Air with the powerful M2 chip.",
+    "specification": [
+      "13.6-inch Retina display",
+      "M2 chip",
+      "8GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  
+  {
+    "product_id": 15,
+    "product_title": "MacBook Pro 16-inch (M2 Max)",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "MacBook",
+    "price": 2999,
+    "description": "Powerful MacBook Pro with M2 Max chip for ultimate performance.",
+    "specification": [
+      "16.2-inch Liquid Retina XDR display",
+      "M2 Max chip",
+      "32GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 16,
+    "product_title": "iPhone 14 Pro Max",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "iPhone",
+    "price": 1099,
+    "description": "Pro camera system and Super Retina XDR display.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A16 Bionic chip",
+      "48MP Main camera",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 17,
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "iPhone",
+    "price": 699,
+    "description": "Compact iPhone with big performance and excellent camera.",
+    "specification": [
+      "5.4-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Dual 12MP camera system",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 18,
+    "product_title": "iPhone SE (2023)",
+    "product_image": "https://i.ibb.co.com/ZpbDN1JZ/iPhone-3.jpg",
+    "category": "iPhone",
+    "price": 499,
+    "description": "Affordable iPhone with a compact design and powerful performance.",
+    "specification": [
+      "4.7-inch Retina HD display",
+      "A15 Bionic chip",
+      "12MP camera",
+      "Up to 256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
