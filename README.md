@@ -1,8 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo
 
-Currently, two official plugins are available:
+Insert gif or link to demo 
+https://recheck-assignment-eigh.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Documentation
+
+[Documentation](https://github.com/ProgrammingHero1/B10-A8-gadget-heaven)
+
+
+## Fundamental concepts .
+
+
+- React router
+- React api
+- Promises:
+- API
+- others 
+
+
+
+
+### Usage
+- local storage
+
+
+
+## Features
+
+- eCommerce site
+- Dynamic card load
+- Favorite option 
+- Contact us
+- Dashboard
+
+
+ 
+
+
+
+
+
